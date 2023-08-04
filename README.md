@@ -9,4 +9,4 @@ Projeto desenvolvido com
 
 O projeto foi feito todo responsivo e adaptavel para mobile e desktop 
 
-link deploy: 
+link deploy: https://erica-l-s.github.io/teste-mandarin/
